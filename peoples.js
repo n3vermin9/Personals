@@ -1,0 +1,15 @@
+export let peoples = [
+  { person: 'Sulim', age: 20, gender: 'male', ethnicity: 'chechen', country: 'Russia', city: 'Grozny', occupation: 'student' },
+  { person: "Vlad", age: 18, gender: "male", ethnicity: "Russian", country: "Kazakhstan", city: "Karaganda", occupation: "unemployed" },
+  { person: "Vlad", age: 328, gender: "male", ethnicity: "Russian", country: "Kazakhstan", city: "Karaganda", occupation: "unemployed" },
+  { person: "Maxim", age: 25, gender: "male", ethnicity: "Russian", country: "Russia", city: "???", occupation: "???" },
+  { person: "Amina", age: 14, gender: "female", ethnicity: "Tatar", country: "Russia", city: "Kazan", occupation: "school" },
+  { person: "Ekaterina", age: 15, gender: "female", ethnicity: "Russian", country: "Russia", city: "Tula", occupation: "school" },
+  { person: "Sofia", age: 15, gender: "female", ethnicity: "Russian", country: "Slovenia", city: "Ljubljana", occupation: "student" },
+  { person: "Yana", age: 15, gender: "female", ethnicity: "Russian", country: "Russia", city: "Tula", occupation: "school" },
+  { person: "Emma", age: 17, gender: "female", ethnicity: "Russian", country: "Russia", city: "Tula", occupation: "RJD" },
+  { person: "Kamilya", age: 22, gender: "female", ethnicity: "Tatar", country: "Russia", city: "Kazan", occupation: "student" },
+  { person: "Alisa", age: 15, gender: "female", ethnicity: "Russian", country: "Russia", city: "Tula", occupation: "school" },
+  { person: "Adelya", age: 14, gender: "female", ethnicity: "Tatar", country: "Russia", city: "Kazan", occupation: "school" },
+  { person: "Re", age: 23, gender: "female", ethnicity: "Russian", country: "Russia", city: "Tula", occupation: "???" },
+];
